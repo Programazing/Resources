@@ -1,6 +1,7 @@
 This is a list of tools and services I use in my development and my daily life.
 
-There is another list of tools that I don't use but find fascinating called
+There is another list of tools that I don't use but find fascinating called: 
+[Tools-Fascinating](https://github.com/Programazing/Resources/blob/master/Tools-Fascinating.md)
 
 ## Tools I Use
 
