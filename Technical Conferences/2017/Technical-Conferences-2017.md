@@ -1,5 +1,5 @@
 # Technical Conferences 2017
-For a list of online conferences click [here](https://github.com/Programazing/Resources/blob/master/Online-Technical-Conferences-2016.md).
+For a list of online conferences click [here](https://github.com/Programazing/Resources/blob/master/Technical%20Conferences/2017/Online-Technical-Conferences-2017.md).
 
 **[Microsoft Inspire 2017](https://partner.microsoft.com/en-US/inspire/)**
 *July 9-13*
